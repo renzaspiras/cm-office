@@ -2,7 +2,8 @@ import UI.Window;
 import Strings.App_info;
 
 /**
- * index
+ * index -- Java 11 is a must, 
+ *  - if using different JDK, there is 10% the app might not work, but never be 0%
  */
 
 public class index {
@@ -16,3 +17,12 @@ public class index {
     root.isCentered(true);
   }
 }
+
+/*
+ * Getting the best features from different Office Apps accross the net
+ * - CM Word
+ * - CM Powerpoint
+ * - CM Excel
+ * - CM Access
+ * - CM Publisher
+ */

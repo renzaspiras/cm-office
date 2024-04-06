@@ -12,4 +12,8 @@ public class Window extends JFrame{
   public void isCentered(boolean status){
     this.setLocationRelativeTo(null);
   }
+
+  public void setBG(String hexString){
+    
+  }
 }
