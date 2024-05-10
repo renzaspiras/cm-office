@@ -19,7 +19,7 @@ public class index {
 }
 
 /*
- * Getting the best features from different Office Apps accross the net
+ * Getting the best features from different Office Apps across the net
  * - CM Word
  * - CM Powerpoint
  * - CM Excel
